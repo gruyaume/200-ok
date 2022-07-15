@@ -1,6 +1,6 @@
 import requests
 
-URL = "http://127.0.0.1:8083"
+URL = "http://127.0.0.1:8080"
 
 
 def test_given_get_request_when_http_call_then_returns_200():
